@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+height: 100vh;
+    padding: 0px 0px;
+    margin: 0;
+    background: linear-gradient(45deg, #3e0658, #580730);
+}
+#container{
+    padding: 0 20px;
+}
+h1{
+    text-align: center;
+    background-color: #1c4aef62;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+#textbox{
+    width: 99.6%;
+    border-color: #1c4aef62;
+    font-weight: bold;
+    font-size: 2em;
+    /* font-size: 15px; */
+}
+p{
+    text-align: center;
+    background-color: #1c4aef62;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
